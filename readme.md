@@ -1,6 +1,5 @@
 #Assignment 1 and 2 <br>
 
-#FEATURE BRANCH CREATED IN ASSIGNMENT2
 
 #Akash Kumar <br>
 #first commit <br>
@@ -31,3 +30,5 @@ feat: add 7th line <br>
 I am working in minfy <br>
 
 #FEATURE BRANCH CREATED IN ASSIGNMENT2 <br>
+
+#I am currently in Feature branch
