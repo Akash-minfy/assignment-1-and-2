@@ -31,4 +31,6 @@ I am working in minfy <br>
 
 #FEATURE BRANCH CREATED IN ASSIGNMENT2 <br>
 
-#I am currently in Feature branch
+#I am currently in Feature branch <br>
+![pull request merging screenshot](pull.png)
+
