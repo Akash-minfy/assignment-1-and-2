@@ -31,4 +31,3 @@ I am working in minfy <br>
 
 #FEATURE BRANCH CREATED IN ASSIGNMENT2 <br>
 
-#Switch to feature branch to see the merge screenshot
