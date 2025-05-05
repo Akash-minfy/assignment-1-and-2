@@ -1,4 +1,4 @@
-#Assignment2 <br>
+#Assignment 1 and 2 <br>
 
 #FEATURE BRANCH CREATED IN ASSIGNMENT2
 
@@ -29,3 +29,5 @@ I love to learn and grow <br>
 #3rd change <br>
 feat: add 7th line <br>
 I am working in minfy <br>
+
+#FEATURE BRANCH CREATED IN ASSIGNMENT2 <br>
