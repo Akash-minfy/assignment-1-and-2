@@ -1,6 +1,4 @@
 #Assignment 1 and 2 <br>
-
-
 #Akash Kumar <br>
 #first commit <br>
 Created akash.txt with 6 lines then added that to stage and then made the intial commit <br>
@@ -30,6 +28,4 @@ feat: add 7th line <br>
 I am working in minfy <br>
 
 #FEATURE BRANCH CREATED IN ASSIGNMENT2 <br>
-
 ![pull request merging screenshot](pull.png)
-
